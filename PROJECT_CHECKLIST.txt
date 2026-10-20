@@ -1,0 +1,20 @@
+FINAL PROJECT CHECKLIST — SOUND GROUP ENTERTAINMENT WEBSITE
+
+[Included] Complete PHP source code
+[Included] Responsive CSS and JavaScript
+[Included] MySQL schema and demo catalogue backup (database_backup.sql)
+[Included] One-time installer (setup.php)
+[Included] Setup instructions and local administrator credentials (README.txt)
+[Included] Project documentation, database overview, role details and test plan
+[Included] Original project brief and student submission guidelines
+
+BEFORE SUBMISSION / DEMONSTRATION
+1. Install and test on XAMPP with Apache + MySQL running.
+2. Run setup.php and test each role using the test plan in docs/PROJECT_DOCUMENTATION.md.
+3. Add screenshots of the running pages if your institution asks for them.
+4. Update the ZIP name to include your actual batch, group and project title as required by the eProject guide.
+5. Never submit this default admin password to a public server; change it first.
+6. Upload only audio/video content you have permission to use.
+
+This package includes source and a repeatable installer. The current environment does not have
+MySQL/PDO-MySQL enabled, so the live database flow must be verified on your XAMPP installation.
